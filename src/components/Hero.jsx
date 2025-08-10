@@ -8,7 +8,7 @@ const Hero = () => {
 
     const videoRef = useRef();
 
-    const isMobile = useMediaQuery({maxWidth: 767})
+    const isMobile = useMediaQuery({maxWidth: 767});
 
     useGSAP(() => {
 
