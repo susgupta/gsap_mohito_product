@@ -1,12 +1,34 @@
-# React + Vite
+# Sushil GSAP Interactive Bar Business Theme Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully, interactive and engaging product theme site for a 'fake bar' business.  This is in effect to show 'emotional design patterns' and leverage GSAP to allow for amazing motion interaction
 
-Currently, two official plugins are available:
+Design/development highlights
+- Using GSAP to provide animations
+- Using GSAP to manipulate a video to provide an amzing effect as the user scrolls up and down
+- Fully responsive on all devices (desktop, tablet and phone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The site has
+- A dynamic GSAP effect to in effect have a video for the hero section that animates on scrol, with a slight parallax effect
+- A simple About section with animated images as they load
+- A beautiful Art section that uses a scroll trigger to animate a 'mask image' to simulate an effect of 'entering a world'
+- An interactive and engaging menu section where cocktails have amazing interaction to slide in as user selects an item
 
-## Expanding the ESLint configuration
+First acknowledgements:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Credit YouTube channel **JS Mastery** for inspiration and tutorial (https://www.youtube.com/@javascriptmastery)
+
+## Technologies Used
+
+- HTML
+- CSS 
+- JavaScript
+- GSAP (specically react/gsap)
+- Vite (as for build and development)
+
+## Real-Time Viewing For Web Version
+
+The application was publised using [GitHub Pages](https://pages.github.com/). In addition a custom Github action is used to deploy on Github pages.
+
+Here is link to view the application:
+
+[Sushil GSAP Interactive Bar Business Theme Site](https://susgupta.github.io/gsap_mohito_product/)
