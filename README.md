@@ -13,6 +13,7 @@ The site has
 - A beautiful Art section that uses a scroll trigger to animate a 'mask image' to simulate an effect of 'entering a world'
 - An interactive and engaging menu section where cocktails have amazing interaction to slide in as user selects an item
 
+
 First acknowledgements:
 
 - Credit YouTube channel **JS Mastery** for inspiration and tutorial (https://www.youtube.com/@javascriptmastery)
